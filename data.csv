@@ -89,3 +89,119 @@ https://traineesor.no/.well-known/security.txt;https://eredaktor.no;2024-12-31T2
 https://unn.no/.well-known/security.txt;mailto:security@nhn.no;;;;;;
 https://verdinytt.no/.well-known/security.txt;mailto:hostmaster@thin.no;2024-12-31T22:59:00.000Z;;;en, no;;
 https://trav365.no/.well-known/security.txt;mailto:hostmaster@thin.no;2024-12-31T22:59:00.000Z;;;en, no;;
+https://tidal.com/.well-known/security.txt;mailto:security@tidal.com;;https://tidal.com/.well-known/pgp-key.txt;;en;;https://careers.tidal.com/
+https://www.vtfk.no/security.txt;Mail us at servicedesk (snabelA) vtfk.no>;2024-10-13T10:00:00.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.vtfk.no/meny/om-oss/ledige-stillinger/
+https://www.vegvesen.no/.well-known/security.txt;secuity@epinova.no;;;;;;
+https://www.valg.no/.well-known/security.txt;mailto:sikkerhet@valg.no;;https://www.valg.no/.well-known/pgp_key.txt;;;;https://www.valg.no/om-valgdirektoratet/jobbe-hos-oss
+https://www.uio.no/.well-known/security.txt;https://cert.uio.no/contact;;https://www.uio.no/english/services/it/security/cert/cert%40uio.no.pub.gpg.asc;;no,en;;
+https://www.ue.no/security.txt;user@example.com;;https://www.ue.no/pgp-key.txt;;;https://www.ue.no/security-policy;
+https://www.tv2.no/security.txt;security@tv2.no;;;;en, nb-NO;;https://jobb.tv2.no/digital
+https://www.nrk.no/.well-known/security.txt;mailto:IT-Sikkerhetsgruppe@nrk.no;Thu, 01 Aug 2024 10:00:00;;https://info.nrk.no/hjem/responsible-disclosure-policy/#security-hall-of-fame;no,en;https://info.nrk.no/hjem/responsible-disclosure-policy/;
+https://www.tussa.no/security.txt;torbjorn.nerbovik@avento.no;;https://www.tussa.no/pgp-key.txt;;;https://www.tussa.no/security-policy;
+https://www.trondheim.kommune.no/.well-known/security.txt;mailto:sikkerhet.it-tjenesten(at)trondheim.kommune.no;2023-10-31T15:00:00.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;no, en;;https://candidate.webcruiter.com/nb-no/Home/companyadverts?companylock=7254&link_source_id=0#search
+https://www.toogoodtogo.no/.well-known/security.txt;mailto:security@toogoodtogo.com;;;;;;
+https://www.telenor.no/.well-known/security.txt;tsoc@tsoc.telenor.net;;https://www.telenor.no/.well-known/pgp_public_key.txt;;no, en;;
+https://www.supersaver.no/.well-known/security.txt;mailto:security@etraveligroup.com;;;;;;
+https://www.tv2.no/.well-known/security.txt;security@tv2.no;;;;en, nb-NO;;https://jobb.tv2.no/digital
+https://www.storebrand.no/.well-known/security.txt;security@storebrand.no;;;;;;
+https://www.stavanger.kommune.no/.well-known/security.txt;mailto:d2b77dce.stavangerkommune.onmicrosoft.com@no.teams.ms;2024-01-01T07:00:00.000Z;;Acknowledgements will be given publicly for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, nn, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;http://www.stavanger.kommune.no/naring-og-arbeidsliv/ledige-stillinger/
+https://www.stange.kommune.no/.well-known/security.txt;mailto:sikkerhet(at)hedmark-ikt.no;2023-10-18T06:46:21.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb,sv,da,en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.hedmark-ikt.no/jobb/
+https://www.sor-odal.kommune.no/.well-known/security.txt;mailto:sikkerhet(at)hedmark-ikt.no;2023-10-18T06:46:21.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb,sv,da,en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.hedmark-ikt.no/jobb/
+https://www.sola.kommune.no/.well-known/security.txt;mailto:security@sola.kommune.no;2023-11-01T21:00:00.000Z;;;;;
+https://www.skien.kommune.no/.well-known/security.txt;Mail us at ithjelp (at) skien.kommune.no;2023-10-13T10:00:00.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.webcruiter.no/WcMain/AssignmentSearch.aspx?company_id=370010&link_source_id=0
+https://www.skeidar.no/.well-known/security.txt;mailto:security@getadigital.com;;;;;;
+https://www.sjakk.no/security.txt;user@example.com;;https://www.sjakk.no/pgp-key.txt;;;https://www.sjakk.no/security-policy;
+https://www.rogfk.no/security.txt;mailto:ikt.drift@rogfk.no;2024-12-31T11:00:00.000Z;;https://www.rogfk.no/om-fylkeskommunen/presse-og-media/nettredaksjonen/;nb, no, nn;https://www.rogfk.no/footer/personvern.82710.aspx;
+https://www.ototen.no/security.txt;mailto:idi@ototen.no;2023-06-28T10:17:00.000Z;;;en, no;;
+https://www.osloworld.no/security.txt;hei@maskinen.no;;https://www.osloworld.no/pgp-key.txt;;;https://www.osloworld.no/security-policy;
+https://www.nordnet.no/.well-known/security.txt;security@nordnet.se;2024-12-31T23:59:59.000Z;;;;https://www.nordnet.se/security-disclosure;https://nordnetab.com/career/available-jobs
+https://www.nord-odal.kommune.no/.well-known/security.txt;mailto:sikkerhet(at)hedmark-ikt.no;2023-10-18T06:46:21.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb,sv,da,en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.hedmark-ikt.no/jobb/
+https://www.nkom.no/.well-known/security.txt;mailto:webmaster@nkom.no;2023-11-02T11:00:00.000Z;;;no, en;https://www.nkom.no/om-nkom/nkoms-personvernerkl%C3%A6ring;https://www.nkom.no/karriere
+https://www.nidarosdomen.no/security.txt;developers@tibe.no;;https://www.nidarosdomen.no/pgp-key.txt;;;https://www.nidarosdomen.no/security-policy;
+https://newsweb.oslobors.no/.well-known/security.txt;security@oslobors.no;;https://www.oslobors.no/pgp-key.txt;;;https://www.oslobors.no/ob_eng/Oslo-Boers/About-Oslo-Boers/Responsible-Disclosure;
+https://www.nbim.no/.well-known/security.txt;mailto:responsibledisclosure@nbim.no;;;;en, no;https://www.nbim.no/en/responsible-disclosure-policy/;
+https://www.nasjonalparkstyre.no/security.txt;developers@tibe.no;;https://www.nasjonalparkstyre.no/pgp-key.txt;;;https://www.nasjonalparkstyre.no/security-policy;
+https://www.moss.kommune.no/security.txt;mailto:helpdesk@moss.kommune.no;2024-11-16T11:00:00.000Z;;;en, no;;
+https://www.mnemonic.io/.well-known/security.txt;mailto:mirt@mnemonic.no;;https://pgp.circl.lu/pks/lookup?op=get&search=0x837BA973BD84B881;;en,no;;
+https://softwarelab.no/.well-known/security.txt;;;;;;;
+https://www.finn.no/.well-known/security.txt;responsible-disclosure@finn.no;;;https://www.finn.no/security-hall-of-fame.txt;en, nb-NO;https://www.finn.no/responsible-disclosure-policy.txt;
+https://www.loten.kommune.no/.well-known/security.txt;mailto:sikkerhet(at)hedmark-ikt.no;2023-10-18T06:46:21.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb,sv,da,en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.hedmark-ikt.no/jobb/
+https://www.lindbak.no/security.txt;user@example.com;;https://www.lindbak.no/pgp-key.txt;;;https://www.lindbak.no/security-policy;
+https://www.ksat.no/.well-known/security.txt;mailto:securitytxt@kongsberg.com;;;;;;
+https://www.kreativtforum.no/security.txt;ole@feed.no;;https://www.kreativtforum.no/pgp-key.txt;;;https://www.kreativtforum.no/security-policy;
+https://www.kongsvinger.kommune.no/.well-known/security.txt;mailto:sikkerhet(at)hedmark-ikt.no;2023-10-18T06:46:21.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb,sv,da,en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.hedmark-ikt.no/jobb/
+https://www.kolumbus.no/.well-known/security.txt;mailto:security@getadigital.com;;;;;;
+https://www.human.no/security.txt;drift@netlife.com;;https://www.human.no/pgp-key.txt;;;https://www.human.no/security-policy;
+https://www.hamar.kommune.no/.well-known/security.txt;mailto:sikkerhet(at)hedmark-ikt.no;2023-10-18T06:46:21.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb,sv,da,en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.hedmark-ikt.no/jobb/
+https://www.hamar-kulturhus.no/.well-known/security.txt;mailto:sikkerhet(at)hedmark-ikt.no;2023-10-18T06:46:21.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb,sv,da,en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.hedmark-ikt.no/jobb/
+https://www.google.no/.well-known/security.txt;https://g.co/vulnz;;https://services.google.com/corporate/publickey.txt;;;https://g.co/vrp;https://g.co/SecurityPrivacyEngJobs
+https://www.gjovik.kommune.no/security.txt;Helpdesk-it@gjovik.kommune.no;;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;
+https://www.gettyimages.no/.well-known/security.txt;mailto:security@gettyimages.com;2023-10-01T07:00:00.000Z;;;;;
+https://www.fretex.no/.well-known/security.txt;https://www.papirfly.com/.well-known/security.txt;4 Jun 2023 00:00 +0000;;;;;
+https://www.papirfly.com/.well-known/security.txt;https://www.papirfly.com/.well-known/security.txt;4 Jun 2023 00:00 +0000;;;;;
+https://www.fiskeridir.no/.well-known/security.txt;mailto:security@fiskeridir.no;2023-12-01T00:00:00.000Z;;;no, en;;https://www.fiskeridir.no/Om-oss/Ledige-stillinger
+https://www.fimbulvetr.no/security.txt;jermund@jerryogconrad.no;;https://www.fimbulvetr.no/pgp-key.txt;;;https://www.fimbulvetr.no/security-policy;
+https://www.tffk.no/security.txt;Mail us at brukerstotte (ÔøΩtt]tffk.no;2023-10-13T10:00:00.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://tromsogfinnmark.easycruit.com/
+https://www.expedia.no/.well-known/security.txt;RespDisc@expedia.com;;;;;https://www.expediagroup.com/about/privacy-data-handling-requirements/;https://lifeatexpedia.com/
+https://www.kobler.no/security.txt;user@example.com;;https://kobler.no/pgp-key.txt;;;https://kobler.no/security-policy;
+https://vkm.no/.well-known/security.txt;mailto:soc@sitevision.se;2023-04-06T13:37:00.000Z;https://www.sitevision.se/security-soc-pgp;;sv, en;;
+https://www.dnv.no/.well-known/security.txt;mailto:dnv.corporate.security@dnv.com;2022-06-01T09:00:00.000Z;;;en;;https://careers-dnv.icims.com/jobs/
+https://www.digipost.no/.well-known/security.txt;mailto:sikkerhet@digipost.no;2024-01-01T00:00:00Z;https://www.digipost.no/dokumenter/sikkerhet/digipost.pub.asc;;no, en;;
+https://www.detnorsketeatret.no/security.txt;utvikler@apt.no;;https://www.detnorsketeatret.no/pgp-key.txt;;;https://www.detnorsketeatret.no/security-policy;
+https://www.bouvet.no/.well-known/security.txt;mailto:ciso@bouvet.no;2023-12-31T23:59:59.999Z;;;en;;https://www.bouvet.no/bli-en-av-oss
+https://www.bergen.kommune.no/.well-known/security.txt;Mail us at itsikkerhet (alfakr√∏ll) bergen.kommune.no;2024-10-24T10:00:00.000Z;;Acknowledgements will be given publicly for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.bergen.kommune.no/jobb
+https://www.barentswatch.no/.well-known/security.txt;mailto:post@barentswatch.no;;;;;;
+https://www.bama.no/.well-known/security.txt;secuity@epinova.no;;;;;;
+https://www.baerum.kommune.no/.well-known/security.txt;mailto:it-brukerstotte@baerum.kommune.no;2023-12-01T07:00:00.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://candidate.webcruiter.com/nb-no/home/companyadverts?companylock=67504050#search
+https://www.atlanterhavskomiteen.no/security.txt;utvikler@apt.no;;https://www.atlanterhavskomiteen.no/pgp-key.txt;;;https://www.atlanterhavskomiteen.no/security-policy;
+https://99designs.no/.well-known/security.txt;mailto:security@99designs.com;;;;en;;https://99designs.com/about/jobs
+https://adressesok.posten.no/.well-known/security.txt;mailto:it.sikkerhet@posten.no;;;;;;
+https://blank.p3.no/.well-known/security.txt;mailto:IT-Sikkerhetsgruppe@nrk.no;Thu, 01 Aug 2024 10:00:00;;https://info.nrk.no/hjem/responsible-disclosure-policy/#security-hall-of-fame;no,en;https://info.nrk.no/hjem/responsible-disclosure-policy/;
+https://diakonhjemmetsykehus.no/.well-known/security.txt;mailto:security@nhn.no;;;;;;
+https://doc.ez.no/security.txt;https://doc.ibexa.co/en/latest/guide/reporting_issues/;;;;en, no, de;https://www.ibexa.co/software-information/security;
+https://eua-bca.amap.no/security.txt;david@burnthebook.co.uk;;https://eua-bca.amap.no/pgp-key.txt;;;https://eua-bca.amap.no/security-policy;
+https://ez.no/.well-known/security.txt;https://doc.ibexa.co/en/latest/guide/reporting_issues/;;;;en, no, de;https://www.ibexa.co/software-information/security;
+https://filmdagbok.no/.well-known/security.txt;mailto:asbjorn@snobjorn.no;2023-10-01T08:00:00.000Z;;;no, en;;
+https://folkehjelp.no/security.txt;bk@norse.digital;;https://folkehjelp.no/pgp-key.txt;;;https://folkehjelp.no/security-policy;
+https://fritanke.no/.well-known/security.txt;mailto:hostmaster@thin.no;2024-12-31T22:59:00.000Z;;;en, no;;
+https://fysiskformat.no/security.txt;nettum@gmail.com;;https://fysiskformat.no/pgp-key.txt;;;https://fysiskformat.no/security-policy;
+https://geodata.no/security.txt;netlifeadmin+nils@netliferesearch.com;;https://geodata.no/pgp-key.txt;;;https://geodata.no/security-policy;
+https://groruddalen.no/.well-known/security.txt;mailto:hostmaster@thin.no;2024-12-31T22:59:00.000Z;;;en, no;;
+https://hafslund.no/security.txt;user@example.com;;https://hafslund.no/pgp-key.txt;;;https://hafslund.no/security-policy;
+https://handelensmiljofond.no/security.txt;drift@netlife.com;;https://handelensmiljofond.no/pgp-key.txt;;;https://handelensmiljofond.no/security-policy;
+https://helse-stavanger.no/.well-known/security.txt;mailto:security@nhn.no;;;;;;
+https://hemit.no/.well-known/security.txt;mailto:security@nhn.no;;;;;;
+https://hentmeg.no/.well-known/security.txt;mailto:security@getadigital.com;;;;;;
+https://hok.no/security.txt;user@example.com;;https://www.hok.no/pgp-key.txt;;;https://www.hok.no/security-policy;
+https://innlandetfylke.no/security.txt;mailto:sikkerhet@innlandetfylke.no;2025-01-06T23:00:00.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;
+https://innlandstrafikk.no/.well-known/security.txt;mailto:sikkerhet@innlandetfylke.no;2025-01-06T23:00:00.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;
+https://kantega.no/.well-known/security.txt;mailto:security@kantega.no;2024-02-27T23:00:00.000Z;;;no, en;;
+https://klepp.kommune.no/.well-known/security.txt;mailto:post@prokom.no;2023-06-01T13:00:00.000Z;;;en, no;;
+https://kongsberg.kommune.no/.well-known/security.txt;mailto:post@prokom.no;2023-06-01T13:00:00.000Z;;;en, no;;
+https://m.dnb.no/.well-known/security.txt;mailto:irt@dnb.no;2031-12-31T23:00:00.000Z;;;;;
+https://moldejazz.no/security.txt;drift@tibe.no;;https://www.moldejazz.no/pgp-key.txt;;;https://www.moldejazz.no/security-policy;
+https://multitek.no/.well-known/security.txt;https://www.multitek.no/kontakt/;;https://www.multitek.no/.well-known/key.asc;;;;
+https://nmh.no/security.txt;hostmaster@apt.no;;https://nmh.no/pgp-key.txt;;;https://nmh.no/security-policy;
+https://nnks.no/security.txt;dev@mustasj.no;;https://nnks.no/pgp-key.txt;;;https://nnks.no/security-policy;
+https://notodden.kommune.no/.well-known/security.txt;mailto:post@prokom.no;2023-06-01T13:00:00.000Z;;;en, no;;
+https://nuug.no/security.txt;mailto:drift@nuug.no;2025-07-06T22:00:00.000Z;;;en, nb;;
+https://os.kommune.no/.well-known/security.txt;mailto:noc.digital@renroros.no;2023-12-31T23:00:00.000Z;;;nb, en;;
+https://oslobusinessregion.no/security.txt;webdev@racer.no;;https://oslobusinessregion.no/pgp-key.txt;;;https://oslobusinessregion.no/security-policy;
+https://play.tv2.no/.well-known/security.txt;security@tv2.no;;;;en, nb-NO;;https://jobb.tv2.no/digital
+https://postkassetrimmen.no/.well-known/security.txt;mailto:security@postkassetrimmen.no;2023-01-01T00:00:00.000Z;https://postkassetrimmen.no/.well-known/public.asc;;no,en;;
+https://radio.nrk.no/.well-known/security.txt;mailto:IT-Sikkerhetsgruppe@nrk.no;Thu, 01 Aug 2024 10:00:00;;https://info.nrk.no/hjem/responsible-disclosure-policy/#security-hall-of-fame;no,en;https://info.nrk.no/hjem/responsible-disclosure-policy/;
+https://radioplay.no/security.txt;mailto: bug-notification@bauermedia.com;2050-12-31T23:59:00.000Z;;;en;https://radioplay.no/security-policy.txt;
+https://share.ez.no/security.txt;https://doc.ibexa.co/en/latest/guide/reporting_issues/;;;;en, no, de;https://www.ibexa.co/software-information/security;
+https://siljan.kommune.no/.well-known/security.txt;Mail us at ithjelp (at) skien.kommune.no;2023-10-13T10:00:00.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://www.webcruiter.no/WcMain/AssignmentSearch.aspx?company_id=3558&link_source_id=0
+https://skam.p3.no/.well-known/security.txt;mailto:IT-Sikkerhetsgruppe@nrk.no;Thu, 01 Aug 2024 10:00:00;;https://info.nrk.no/hjem/responsible-disclosure-policy/#security-hall-of-fame;no,en;https://info.nrk.no/hjem/responsible-disclosure-policy/;
+https://support.koer.no/.well-known/security.txt;https://bugcrowd.com/intercom;;;https://bugcrowd.com/intercom/hall-of-fame;en;https://www.bugcrowd.com/resource/standard-disclosure-terms/;https://boards.greenhouse.io/intercom/jobs/1888872
+https://sykehuset-ostfold.no/.well-known/security.txt;mailto:personvernombudet@so-hf.no;;;;en, no;https://sykehuspartner.no/Documents/Sikkerhet%20-%20regionale%20bruksvilk%C3%A5r/NO-38%20-%20Responsible%20disclosure%20policy%20(engelsk).pdf;mailto:sikkerhet@sykehuspartner.no
+https://sykehusinnkjop.no/.well-known/security.txt;mailto:security@nhn.no;;;;;;
+https://tana.vgs.no/security.txt;Mail us at brukerstotte (ÔøΩtt]tffk.no;2023-10-13T10:00:00.000Z;;Acknowledgements will be given publically for any higher severity bug reports, or we can respect your privacy. Tell us what you wish when reporting to us.;nb, en;We welcome any friendly bug report. Please contact us in advance if you wish to use methods that can trigger warnings or cause denial of service.;https://tromsogfinnmark.easycruit.com/
+https://tigernet.no/security.txt;nettum@gmail.com;;https://tigernet.no/pgp-key.txt;;;https://tigernet.no/security-policy;
+https://tinn.kommune.no/.well-known/security.txt;mailto:post@prokom.no;2023-06-01T13:00:00.000Z;;;en, no;;
+https://tv.nrk.no/.well-known/security.txt;mailto:IT-Sikkerhetsgruppe@nrk.no;Thu, 01 Aug 2024 10:00:00;;https://info.nrk.no/hjem/responsible-disclosure-policy/#security-hall-of-fame;no,en;https://info.nrk.no/hjem/responsible-disclosure-policy/;
+https://vibbo.no/.well-known/security.txt;mailto:styrerommet.sikkerhet@obos.no;2023-01-01T23:00:00.000Z;;;no,en;;
+https://vigeland.museum.no/security.txt;dev@mustasj.no;;https://vigeland.museum.no/pgp-key.txt;;;https://vigeland.museum.no/security-policy;
+https://viken.no/security.txt;brukerhjelp (at) viken.no;2023-12-31 T10:00:00.000Z;;;no, en;;
+https://yelp.no/.well-known/security.txt;https://hackerone.com/yelp;2023-10-01T00:00:00Z;;;;https://hackerone.com/yelp?view_policy=true;https://www.yelp.careers/us/en/c/engineering-jobs
